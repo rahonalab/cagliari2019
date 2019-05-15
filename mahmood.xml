@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlnsoff="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-</teiHeader>
+<revisionDesc><change who="xmltokenize" when="2019-05-14">tokenized using xmltokenize.pl</change></revisionDesc>
+<fileDesc>
+ <titleStmt>
+    <title>Soldi</title>
+    <author>Mahmood</author>
+ </titleStmt>
+  <publicationStmt><publisher>Università di Cagliari</publisher></publicationStmt>
+<sourceDesc><msDesc><msIdentifier><institution>Sanremo 2019</institution><settlement>Sanremo</settlement></msIdentifier></msDesc></sourceDesc></fileDesc>
+
+<profileDesc><textClass>Rap Lyrics</textClass></profileDesc></teiHeader>
 <text>
 <body>
-In periferia fa molto caldo
-mamma stai tranquilla, sto arrivando
+<tok id="w-1" lemma="in" pos="PRE">In</tok> <tok id="w-2" lemma="periferia" pos="NOUN">periferia</tok> <tok id="w-3">fa</tok> <tok id="w-4">molto</tok> <tok id="w-5">caldo</tok>
+<lb id="e-1"/>
+<tok id="w-6">mamma</tok> <tok id="w-7">stai</tok> <tok id="w-8">tranquilla</tok><tok id="w-9">,</tok> <tok id="w-10">sto</tok> <tok id="w-11">arrivando</tok>
+<lb id="e-2"/>
 </body>
 </text>
+
 </TEI>
