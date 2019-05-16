@@ -16,6 +16,10 @@ Pdf e dati delle lezioni sulla linguistica dei corpora tenute a Cagliari a maggi
 - achille.xml, berte.xml: file xml con testi di canzoni di Sanremo da etichettare per TEI-Header, verso e strofa;
 - mahmood.xml: file xml di esempio già etichettato.
 
+## Elan
+- activity_unproductive.wav: file WAV da annotare;
+- this_activity.eaf: file di Elan annotato.
+
 ## Miscellanea
 - san_martino.csv: la poesia San Martino tokenizzata con annotazione posizionale;
 - manual-elan_ug.pdf: PDF del manuale ufficiale di Elan.

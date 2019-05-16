@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlnsoff="http://www.tei-c.org/ns/1.0">
 <teiHeader>
-<revisionDesc><change who="xmltokenize" when="2019-05-14">tokenized using xmltokenize.pl</change></revisionDesc>
 <fileDesc>
  <titleStmt>
     <title>Soldi</title>
     <author>Mahmood</author>
  </titleStmt>
   <publicationStmt><publisher>Università di Cagliari</publisher></publicationStmt>
-<sourceDesc><msDesc><msIdentifier><institution>Sanremo 2019</institution><settlement>Sanremo</settlement></msIdentifier></msDesc></sourceDesc></fileDesc>
+  <sourceDesc><msDesc><msIdentifier><institution>Sanremo 2019</institution><settlement>Sanremo</settlement></msIdentifier></msDesc></sourceDesc>
+</fileDesc>
 
 <profileDesc><textClass>Rap Lyrics</textClass></profileDesc></teiHeader>
 <text>
