@@ -5,7 +5,7 @@
         <String>default</String>
         <String>Enunciato</String>
         <String>Parole</String>
-        <String>Trascrizione morfematica</String>
+        <String>Trascrizione per glosse</String>
     </prefList>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -23,7 +23,7 @@
         <String>Modification Date</String>
     </prefList>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>351</Int>
+        <Int>239</Int>
     </pref>
     <pref key="GridViewer.MultiTierMode.Subdivision">
         <Boolean>true</Boolean>
@@ -62,7 +62,7 @@
         <Long>6530</Long>
     </pref>
     <pref key="SubTitleViewer.TierName-4">
-        <String>Trascrizione morfematica</String>
+        <String>Trascrizione per glosse</String>
     </pref>
     <pref key="MediaControlRate">
         <Float>1.0</Float>
@@ -74,7 +74,7 @@
         <String>Parole</String>
     </pref>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1280,724</Object>
+        <Object class="java.awt.Dimension">1280,723</Object>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>127.0</Float>
@@ -89,12 +89,6 @@
     </prefGroup>
     <pref key="GridViewer.TimeFormat">
         <String>ms</String>
-    </pref>
-    <pref key="ActiveRecognizerName">
-        <String>AAM-LR Phone level audio segmentation</String>
-    </pref>
-    <pref key="MultiTierViewer.ActiveTierName">
-        <String>Trascrizione morfematica</String>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Modification Date">
@@ -128,12 +122,19 @@
             <Int>75</Int>
         </pref>
     </prefGroup>
-    <pref key="TextViewer.TierName">
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
         <String>Trascrizione morfematica</String>
     </pref>
-    <pref key="TimeScaleBeginTime">
-        <Long>1967</Long>
+    <pref key="TextViewer.TierName">
+        <String>Trascrizione per glosse</String>
     </pref>
+    <pref key="TimeScaleBeginTime">
+        <Long>1490</Long>
+    </pref>
+    <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>152</Int>
     </pref>
