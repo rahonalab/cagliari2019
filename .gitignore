@@ -1,3 +1,7 @@
+## Directories to avoid
+rimborsi/
+*-container
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
